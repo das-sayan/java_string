@@ -1,32 +1,32 @@
 -----------------------PROBLEM STATEMENTS ON JAVA STRINGS---------------------
 ----------------------***********************************---------------------
-1. Write a program which creates a String “Welcome to Java World” and perform 
+1. Write a program which creates a String â€œWelcome to Java Worldâ€ and perform 
 the following 
 
 i.	Returns the character at 5th position and display it.
-ii.	Compare the above String with “Welcome” lexicographically ignoring
+ii.	Compare the above String with â€œWelcomeâ€ lexicographically ignoring
  case differences and display the result.
-iii. Concatenates “- Let us learn” to the above string and display it.
-iv.  Returns the position of the first occurrence of character ‘a’ and
+iii. Concatenates â€œ- Let us learnâ€ to the above string and display it.
+iv.  Returns the position of the first occurrence of character â€˜aâ€™ and
  display it.
-v.  Replaces all the occurrences of ‘a’ character with the new ‘e’ and display it.
+v.  Replaces all the occurrences of â€˜aâ€™ character with the new â€˜eâ€™ and display it.
 vi. Returns string between 4th position and 10th position and display it.
 vii. Returns the lowercase of the string and display it
 ----------------------------------------------------------------------------
 
-2.Write a program which creates a StringBuffer “This is StringBuffer” and
+2.Write a program which creates a StringBuffer â€œThis is StringBufferâ€ and
  performs the following. 
 
-1.	Adds the string ”- This is a sample program” to existing string and 
+1.	Adds the string â€- This is a sample programâ€ to existing string and 
 	display it.
-2.	Inserts the string “Object” into the existing string at 21st postion
+2.	Inserts the string â€œObjectâ€ into the existing string at 21st postion
 	 and display it.
 3.	Reverses the entire string and displays it.
-4.	Replaces the word “Buffer” with “Builder” and display it.
+4.	Replaces the word â€œBufferâ€ with â€œBuilderâ€ and display it.
 
 ---------------------------------------------------------------------------
-3.Write a program which creates a String “C:\IBM\DB2\PROGRAM\DB2COPY1.EXE”. 
-It parses the string with the delimiter as ‘\’ and displays the String in the
+3.Write a program which creates a String â€œC:\IBM\DB2\PROGRAM\DB2COPY1.EXEâ€. 
+It parses the string with the delimiter as â€˜\â€™ and displays the String in the
  following format.
 Drive: c:\
 Folders: IBM || DB2 || PROGRAM 
@@ -142,7 +142,7 @@ input2=what hai
 output=3;
 ------------------------------------------------------------------------
 19. Find the sum of the numbers in the given input string array
-   Input{“2AA”,”12”,”ABC”,”c1a”)
+   Input{â€œ2AAâ€,â€12â€,â€ABCâ€,â€c1aâ€)
    Output:6 (2+1+2+1)
    Note in the above array 12 must not considered as such
    i.e,it must be considered as 1,2
@@ -164,15 +164,15 @@ duplicate
 
 ----------------------------------------------------------------------
 22. Write a program to rearrange-
-Input1=”Hello World”;  output- “dello WorlH”.
+Input1=â€Hello Worldâ€;  output- â€œdello WorlHâ€.
 
 ------------------------------------------------------------
 23. count the number of words in the string
     Input string="i work in cognizant.";
     output=4;
 -----------------------------------------------------------
-24. Input1=”cowboy”; Output1=”cowcow”;
-    Input1=”so”;output1=”sososo”; 
+24. Input1=â€cowboyâ€; Output1=â€cowcowâ€;
+    Input1=â€soâ€;output1=â€sososoâ€; 
     HINT: if they give 3 letter word u have to display 2 time;
 -----------------------------------------------------------
 25. pan card number validation:
